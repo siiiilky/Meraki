@@ -2,4 +2,3 @@ APIKEY='SOMEKEYHERE'
 headers = {
    "X-Cisco-Meraki-API-Key": APIKEY
 }
-url = "https://api.meraki.com/api/v1/organizations"
